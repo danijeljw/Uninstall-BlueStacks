@@ -1,4 +1,4 @@
-Uninstall BlueStacks v1.3
+Uninstall BlueStacks v1.4
 =========================
 
 Bash script that will completely remove BlueStacks from OS X.
