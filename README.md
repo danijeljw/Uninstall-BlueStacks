@@ -8,7 +8,7 @@ Uninstall BlueStacks for Mac OS X
 #### NOTICE	#
 This project as been moved to [SourceForge](https://sourceforge.net/projects/osxbluestacksuninstaller/) and has been depreciated. Unless there are [bug reports](https://github.com/danijeljames/Uninstall-BlueStacks/issues/new), it will not longer receive updates and remain as a `FINAL` build.  
   
-**DMG:** 1.4.1  
+**DMG:** 2.0.0  
 **Script:** 1.5.0
 
 -----
@@ -20,7 +20,7 @@ Comes in 2 flavours, the bash script and the Application. Personally, I prefer t
 #### Installation #
 Download to the `/usr/bin` directory _(requires **cURL** and **sudo**)_:
 ````
-sudo curl "http://sourceforge.net/p/osxbluestacksuninstaller/code/ci/master/tree/RemBlueStacks.sh?format=raw" -o "/usr/bin/RemBlueStacks.sh" && sudo chmod +x /usr/bin/RemBlueStacks.sh
+sudo curl "http://sourceforge.net/p/osxbluestacksuninstaller/code/ci/master/tree/RemBlueStacks.sh?format=raw" -o "/usr/bin/RemBlueStacks" && sudo chmod +x /usr/bin/RemBlueStacks
 ````
 Alternatively, download the [DMG](http://sourceforge.net/projects/osxbluestacksuninstaller/files/1.4.1/UninstallBlueStacks.dmg/download) from SourceForge and run the application instead.
 
