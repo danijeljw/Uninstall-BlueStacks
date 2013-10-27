@@ -8,7 +8,7 @@ Uninstall BlueStacks for Mac OS X
 #### NOTICE	#
 This project as been moved to [SourceForge](https://sourceforge.net/projects/osxbluestacksuninstaller/) and has been depreciated. Unless there are [bug reports](https://github.com/danijeljames/Uninstall-BlueStacks/issues/new), it will not longer receive updates and remain as a `FINAL` build.  
   
-**DMG:** 2.0.0  
+**DMG:** 2.0.1  
 **Script:** 1.5.0
 
 -----
